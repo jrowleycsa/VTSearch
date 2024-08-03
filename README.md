@@ -15,7 +15,7 @@ This script allows you to interact with the VirusTotal API to scan URLs and sear
     - requests library
 
 ### Installation
-git clone https://github.com/yourusername/virustotal-lookup.git
+git clone https://github.com/jrowleycsa/virustotal-lookup.git
 cd virustotal-lookup
 
 Install the required Python package:
