@@ -19,7 +19,7 @@ This script allows you to interact with the VirusTotal API to search for file ha
 `cd virustotal-lookup`
 
 Install the required Python package:
-    pip install requests
+    `pip install requests` 
 
 ### Usage
     Replace YOUR_VIRUSTOTAL_API_KEY with your actual VirusTotal API key in the script.
