@@ -15,8 +15,8 @@ This script allows you to interact with the VirusTotal API to search for file ha
     - requests library
 
 ### Installation
-git clone https://github.com/jrowleycsa/virustotal-lookup.git
-cd virustotal-lookup
+`git clone https://github.com/jrowleycsa/virustotal-lookup.git`
+`cd virustotal-lookup`
 
 Install the required Python package:
     pip install requests
