@@ -5,7 +5,6 @@
 This script allows you to interact with the VirusTotal API to search for file hashes. It provides a summary of how many vendors have marked the file hash as malicious.
 ### Features
 
-   - Scan a URL using VirusTotal.
    - Search for a file hash on VirusTotal.
    - Summarize the results indicating how many vendors have marked the input as malicious.
 
